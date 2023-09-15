@@ -1,0 +1,14 @@
+.input-area {
+  width: 65%;
+  display: flex;
+  justify-content: center;
+}
+input {
+  width: 55%;
+}
+input,
+button {
+  border: 3px double burlywood;
+  background-color: whitesmoke;
+  border-radius: 5px;
+}

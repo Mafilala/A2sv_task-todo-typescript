@@ -1,0 +1,17 @@
+.todo-app {
+  width: 60vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  border: none;
+  border-radius: 1rem;
+  box-shadow: 0 0 15px burlywood;
+  margin-top: 2.5rem;
+}
+
+h1 {
+  font-family: cursive;
+  margin-bottom: 0.5rem;
+  font-size: 1.5rem;
+}

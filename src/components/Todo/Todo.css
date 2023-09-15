@@ -1,0 +1,25 @@
+.todo {
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+  border: 3px double burlywood;
+  margin-bottom: 10px;
+  padding: 5px 10px;
+}
+.icon-group {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.icon {
+  font-size: 24px;
+  margin: 3px 12px;
+  cursor: pointer;
+}
+.edit-input {
+  border: none;
+}
+.edit-input:focus {
+  outline: none;
+  width: 100%;
+}
