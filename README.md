@@ -23,7 +23,7 @@ npm run dev
 
 ### List of Todos
 
-<img src="./list.png"/>
+<img src="./public/list.png"/>
 
 <br>
 
