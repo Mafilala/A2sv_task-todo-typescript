@@ -30,7 +30,7 @@ npm run dev
 ### Add Todo
 
 <br>
-<img src="./screenshots/add-1.png"/>
+<img src="./public/add.png"/>
 <br>
 
 <img src="./screenshots/add-2.png"/>
@@ -39,18 +39,15 @@ npm run dev
 ### Delete Todo
 
 <br>
-<img src="./screenshots/delete-1.png"/>
-<br>
-
-<img src="./screenshots/delete-2.png"/>
+<img src="./public/deleting.png"/>
 <br>
 
 ### Edit Todo
 
 <br>
 
-<img src="./screenshots/edit-1.png"/>
-<br>
+<img src="./public/editing.png"/>
 
-<img src="./screenshots/edit-2.png"/>
+```
+
 ```
